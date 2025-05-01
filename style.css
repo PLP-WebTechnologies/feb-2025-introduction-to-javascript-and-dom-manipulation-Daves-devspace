@@ -1,1 +1,18 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  line-height: 1.6;
+}
+
+header, footer {
+  background: #f0f0f0;
+  padding: 1rem;
+  text-align: center;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
 
